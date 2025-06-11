@@ -16,7 +16,7 @@ Este repositório apresenta o código-fonte do meu currículo profissional, dese
 
 ## Visualização do Currículo:
 
-Você pode visualizar este currículo diretamente no navegador acessando [AQUI O SEU LINK DO GITHUB PAGES, QUE FAREMOS EM SEGUIDA](#).
+Você pode visualizar este currículo diretamente no navegador acessando (https://thiagormpp.github.io/curriculo-html-css/).
 
 ## Como Usar/Visualizar o Código:
 
